@@ -1,0 +1,8 @@
+Project: EV Battery Consumption Statistical Study
+
+Tasks:
+    Clean dataset
+    Find descriptive stats
+    Identify outliers
+    Hypothesis test: Does temperature affect battery drain?
+    Build simple linear regression
